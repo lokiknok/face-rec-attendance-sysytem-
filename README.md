@@ -9,7 +9,6 @@ Python
 OpenCV
 LBPH Face Recognition
 Haar Cascade
-Tkinter
 NumPy
 Pandas
 Pillow
